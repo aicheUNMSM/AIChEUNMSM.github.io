@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Verificación de Certificados - AIChE UNMSM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f7fa;
+            margin: 0;
+        }
+
+        header {
+            background-color: #0A2A66;
+            color: white;
+            padding: 15px 40px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 40px;
+            text-align: center;
+        }
+
+        input {
+            padding: 10px;
+            width: 70%;
+            margin-top: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #0A2A66;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        #resultado {
+            margin-top: 30px;
+        }
+
+        .valido {
+            border: 1px solid green;
+            padding: 20px;
+            background-color: #eaffea;
+        }
+
+        .invalido {
+            border: 1px solid red;
+            padding: 20px;
+            background-color: #ffeaea;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h2>Verificación de Certificados - AIChE UNMSM</h2>
+</header>
+
+<div class="container">
+    <h3>Ingrese el código del certificado</h3>
+
+    <input type="text" id="codigo" placeholder="Ej: AICHE-UNMSM-2026-X7K9P">
+    <br><br>
+    <button onclick="verificar()">Verificar</button>
+
+    <div id="resultado"></div>
+</div>
+
+<script src="js/verificacion.js"></script>
+
+</body>
+</html>

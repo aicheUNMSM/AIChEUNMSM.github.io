@@ -1,0 +1,42 @@
+[
+  {
+    "codigo": "DM-2026-0603-EE",
+    "nombre": "Elizabeth NormaEspinosa Descalzo",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Ponente",
+    "pdf": "certificados/DM-2026-0603-EE.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-IR",
+    "nombre": "Isabel Ramirez Camal",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Ponente",
+    "pdf": "certificados/DM-2026-0603-IR.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-JI",
+    "nombre": "JulissaMarleni Icho Yacupoma",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Ponente",
+    "pdf": "certificados/DM-2026-0603-JI.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-ML",
+    "nombre": "María Luz La Torre Aponte",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Ponente",
+    "pdf": "certificados/DM-2026-0603-ML.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-NQ",
+    "nombre": "Nelly Gisella Quispe Quispe",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Ponente",
+    "pdf": "certificados/DM-2026-0603-NQ.pdf"
+  },
+]
