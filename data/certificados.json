@@ -5,7 +5,7 @@
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-EE.pdf"
+    "pdf": "/certificados/DM-2026-0603-EE.pdf"
   },
   {
     "codigo": "DM-2026-0603-IR",
@@ -13,7 +13,7 @@
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-IR.pdf"
+    "pdf": "/certificados/DM-2026-0603-IR.pdf"
   },
   {
     "codigo": "DM-2026-0603-JI",
@@ -21,7 +21,7 @@
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-JI.pdf"
+    "pdf": "/certificados/DM-2026-0603-JI.pdf"
   },
   {
     "codigo": "DM-2026-0603-ML",
@@ -29,7 +29,7 @@
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-ML.pdf"
+    "pdf": "/certificados/DM-2026-0603-ML.pdf"
   },
   {
     "codigo": "DM-2026-0603-NQ",
@@ -37,6 +37,6 @@
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-NQ.pdf"
+    "pdf": "/certificados/DM-2026-0603-NQ.pdf"
   }
 ]
