@@ -46,5 +46,85 @@
     "fecha": "2026-03-27",
     "tipo": "Ponente",
     "pdf": "/certificados/DA-2026-2703-RZ.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-MA",
+    "nombre": "Mercedes Mercy Angulo Cipriano",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-MA.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-RP",
+    "nombre": "Rodrigo Denys Pillaca Caceres",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-RP.pdf"
+  },
+   {
+    "codigo": "DA-2026-2703-MI",
+    "nombre": "Mercedes Adriana Inocente Olivera",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-MI.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-GH",
+    "nombre": "Geraldine Alison Huamancayo Lobo",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-GH.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-AM",
+    "nombre": "Alonso Marcelo Merino Salvatierra",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-AM.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-AC",
+    "nombre": "Amir Arian Robert Chavez Sanabria",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-AC.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-EE",
+    "nombre": "Elizabeth Norma Espinosa Descalzo",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-EE.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-MR",
+    "nombre": "Medalidt Noelia Reyna Isidro",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-MR.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-YA",
+    "nombre": "Yuly Marisol Amanca Amanca",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-YA.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-MN",
+    "nombre": "Miguel Alejandro Nakagawa Costa",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Asistente",
+    "pdf": "/certificados/DA-2026-2703-MN.pdf"
   }
 ]
