@@ -47,9 +47,9 @@ async function verificar() {
 
                     <h4 class="font-black text-emerald-800 mb-3 text-sm uppercase tracking-widest">Vista del Documento Original:</h4>
                     
-                    <div class="w-full h-[600px] md:h-[750px] rounded-2xl overflow-hidden border-2 border-emerald-200 shadow-inner bg-slate-100 relative">
+                    <div class="w-full rounded-xl overflow-hidden border border-emerald-200 shadow-inner bg-slate-100 relative" style="aspect-ratio: 1.414 / 1; max-height: 550px;">
                         <iframe 
-                            src="${cert.pdf}#toolbar=0&navpanes=0" 
+                            src="${cert.pdf}#toolbar=0&navpanes=0&view=FitH" 
                             class="w-full h-full border-none absolute inset-0"
                             title="Vista previa del certificado"
                         ></iframe>
@@ -78,13 +78,16 @@ async function verificar() {
     } catch (error) {
         resultado.innerHTML = `
             <div class="invalido fade-in text-center">
+                <div class="flex justify-center mb-3">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+                </div>
                 <p class="font-bold text-red-800">Hubo un error de conexión al consultar la base de datos.</p>
             </div>
         `;
     }
 }
 
-/* Auto-verificación con QR (Lógica intacta) */
+/* Auto-verificación con QR */
 window.onload = () => {
     const params = new URLSearchParams(window.location.search);
     const codigo = params.get("codigo");
