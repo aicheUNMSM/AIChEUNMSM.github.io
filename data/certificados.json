@@ -38,5 +38,13 @@
     "fecha": "2026-03-06",
     "tipo": "Ponente",
     "pdf": "/certificados/DM-2026-0603-NQ.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-RZ",
+    "nombre": "Raúl Armando Zamudio Castillo",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Ponente",
+    "pdf": "/certificados/Da-2026-2703-RZ.pdf"
   }
 ]
