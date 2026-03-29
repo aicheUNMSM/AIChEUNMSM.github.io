@@ -1,27 +1,27 @@
 [
   {
     "codigo": "DM-2026-0603-EE",
-    "nombre": "Elizabeth NormaEspinosa Descalzo",
+    "nombre": "Elizabeth Norma Espinosa Descalzo",
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-EE.pdf"
+    "pdf": "/certificados/DM-2026-0603-EE.pdf"
   },
   {
     "codigo": "DM-2026-0603-IR",
-    "nombre": "Isabel Ramirez Camal",
+    "nombre": "Isabel Ramirez Camac",
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-IR.pdf"
+    "pdf": "/certificados/DM-2026-0603-IR.pdf"
   },
   {
     "codigo": "DM-2026-0603-JI",
-    "nombre": "JulissaMarleni Icho Yacupoma",
+    "nombre": "Julissa Marleni Icho Yacupoma",
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-JI.pdf"
+    "pdf": "/certificados/DM-2026-0603-JI.pdf"
   },
   {
     "codigo": "DM-2026-0603-ML",
@@ -29,7 +29,7 @@
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-ML.pdf"
+    "pdf": "/certificados/DM-2026-0603-ML.pdf"
   },
   {
     "codigo": "DM-2026-0603-NQ",
@@ -37,6 +37,14 @@
     "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
     "fecha": "2026-03-06",
     "tipo": "Ponente",
-    "pdf": "certificados/DM-2026-0603-NQ.pdf"
+    "pdf": "/certificados/DM-2026-0603-NQ.pdf"
   },
+  {
+    "codigo": "DA-2026-2703-RZ",
+    "nombre": "Raúl Armando Zamudio Castillo",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Ponente",
+    "pdf": "/certificados/Da-2026-2703-RZ.pdf"
+  }
 ]

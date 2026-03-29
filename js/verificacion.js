@@ -7,7 +7,7 @@ async function verificar() {
     }
 
     try {
-        const res = await fetch("data/certificados.json");
+        const res = await fetch("/data/certificados.json");
         const data = await res.json();
 
         const cert = data.find(c => c.codigo === codigo);
