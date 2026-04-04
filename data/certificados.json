@@ -40,12 +40,92 @@
     "pdf": "/certificados/DM-2026-0603-NQ.pdf"
   },
   {
+    "codigo": "DM-2026-0603-LD",
+    "nombre": "Luis Alberto De La Cruz Sandoval",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Anfitrion",
+    "pdf": "/certificados/DM-2026-0603-LD.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-BV",
+    "nombre": "Brenda Fabiola Vega Julca",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Entrevistador",
+    "pdf": "/certificados/DM-2026-0603-BV.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-NO",
+    "nombre": "Nadine Abigail Osorio Manchay",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Entrevistador",
+    "pdf": "/certificados/DM-2026-0603-NO.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-BA",
+    "nombre": "Bryana Marlith Anzualdo Rodriguez",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Entrevistador",
+    "pdf": "/certificados/DM-2026-0603-BA.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-JS",
+    "nombre": "Jeremy Antonio Silva More",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Entrevistador",
+    "pdf": "/certificados/DM-2026-0603-JS.pdf"
+  },
+  {
+    "codigo": "DM-2026-0603-MV",
+    "nombre": "Milagros Daniela Valdivia Gonzales",
+    "evento": "La participación, los desafíos y el liderazgo de la mujer sanmarquina en la ciencia, la ingeniería y la educación",
+    "fecha": "2026-03-06",
+    "tipo": "Entrevistador",
+    "pdf": "/certificados/DM-2026-0603-MV.pdf"
+  },
+  {
     "codigo": "DA-2026-2703-RZ",
     "nombre": "Raúl Armando Zamudio Castillo",
     "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
     "fecha": "2026-03-27",
     "tipo": "Ponente",
     "pdf": "/certificados/DA-2026-2703-RZ.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-BV",
+    "nombre": "Brenda Fabiola Vega Julca",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Moderador",
+    "pdf": "/certificados/DA-2026-2703-BV.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-FR",
+    "nombre": "Fabian Leonardo Rios Recinas",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Entrevistador",
+    "pdf": "/certificados/DA-2026-2703-FR.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-AC",
+    "nombre": "Alonso Santino Calle Barrenechea",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Entrevistador",
+    "pdf": "/certificados/DA-2026-2703-AC.pdf"
+  },
+  {
+    "codigo": "DA-2026-2703-MV",
+    "nombre": "Milagros Daniela Valdivia Gonzales",
+    "evento": "Retos de la FQIQ UNMSM frente a la escasez de agua dulce",
+    "fecha": "2026-03-27",
+    "tipo": "Anfitriona",
+    "pdf": "/certificados/DA-2026-2703-MV.pdf"
   },
   {
     "codigo": "DA-2026-2703-MA",
